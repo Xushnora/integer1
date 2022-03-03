@@ -78,7 +78,18 @@
 // };
 
 
-//  11- masala
+// fizzbuzz
+
+// let a = +prompt("Iltimos, son kiriting: ");
+
+// if ((a % 3 == 0) && (a % 5 == 1)) {
+//     console.log("Fizz");
+// } else if ((a % 3 == 0) && (a % 5 == 0)) {
+//     console.log("Buzz");
+// } else {
+//     console.log("FizzBuzz");
+// }
+
 
 
 
