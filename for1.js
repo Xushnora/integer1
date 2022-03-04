@@ -220,6 +220,114 @@
 
 // 21-masala
 
+// let n = 4;
+// let k = 1;
+// let s = 0;
+
+// for (let i = 1; i <= n; i++) {
+//     k *= i;
+//     s += 1 / k;
+// }
+// console.log(s);
+
+
+// 22-masala
+
+// let n = 4;
+// let x = 2;
+// let k = 1;
+// let s = 0;
+
+// for (let i = 1; i <= n; i++) {
+//     let k = 1;
+//     for (let j = 1 ; j<=i; j++){
+//         let f=k*=j
+//         s += (x**k) / f;
+//     }
+// }
+// console.log(s);
+
+
+
+// 36-masala whileda
+
+// let n = 4;
+// let k = 2;
+// let num = 1;
+// let result = 0;
+
+// while (n > 0) {
+//   result += num ** k;
+//   num += 1;
+//   console.log(result);
+//   n -= 1;
+// }
+
+
+// 36 - masala forda
+
+// let n = 5;
+// let k = 3;
+// let result = 0;
+
+// for (let i = 1; i <= n; i++){
+//     result += i ** k;
+//     console.log(i, result);
+// }
+
+
+// 37-masala
+
+
+// let n = 3;
+// let result = 0;
+
+// for (let i = 1; i <= n; i++){
+//     result += i ** i;
+//     console.log(i, result);
+// }
+
+
+// 38-masala
+
+// let n = 4;
+// let s = 0;
+// for (let i = 1; i <= n; i++) {
+//     k = 1;
+//     for (let j = n; j >= i; j--) {
+//         k *= i;
+//     }
+//     s += k;
+// }
+
+// console.log(s);
+
+
+// 39 - masala
+
+// let a = 1;
+// let b = 5;
+
+// for (let i = a + 1; i < b; i++) {
+//     for (let j = 1; j <= i; j++) {
+//         console.log(i);
+//     }
+// }
+
+
+// 40 - masala
+
+// let a = 4;
+// let b = 7;
+// let num = 0;
+
+// for (let i = a; i <= b; i++) {
+//     for (let j = a; j <= i; j++) {
+//         console.log(i);
+//     }
+// }
+
+
 
 
 
