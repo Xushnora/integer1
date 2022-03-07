@@ -99,26 +99,33 @@
 
 // 16- masala
 
-// let n = 3453;
-
-// if ((1000 <= n) && (9999 >= n)) {
-//     let a = Math.round (n/1000);
+// let n = 3459;
+//     let a = Math.floor(n/1000);
 //     console.log(a);
-//     let b = n % 100;
-//     let c = b / 10 % 10;
-//     console.log(c.toFixed(0));
-//     let d = n % 1000;
-//     let f = (d / 100 % 10)-1;
-//     console.log(f.toFixed(0));
-//     let m = n % 100
+//     let b = Math.floor(n / 100 % 10);
+//     console.log(b);
+//     let c = Math.floor(n / 10 % 10);
+//     console.log(c);
+//     let d = Math.floor(n % 10);
+//     console.log(d);
+// let count = a + b + c + d;
+// console.log(count);
+
+
+// test
+
+
+
+// let a = 124
+// let b;
+// let sum =0
+
+// for (let i=0; i<=a; i++) {
+//     b = a%10;
+//     a = Math.floor(a/10);
+//     sum += b;
 // }
-
-
-
-
-
-
-
+// console.log(sum);
 
 
 
