@@ -1,4 +1,4 @@
-// bool 1
+// bool 11
 
 // let a = 5;
 // let b = 9;
@@ -10,7 +10,7 @@
 // }
 
 
-// bool 2
+// bool 12
 
 // let a = 100;
 
@@ -21,7 +21,7 @@
 // }
 
 
-// bool 3
+// bool 13
 
 
 // let a = 100;
@@ -39,19 +39,23 @@
 // }
 
 
+// bool 14
 
-let a = 26;
-let b = 0;
-let count = 0;
-while (a > 0) {
-    b = a % 10;
-    a = Math.floor (a / 10);
-    count += b;     
-    console.log(count);
-}
+
+// let a = 26;
+// let b = 0;
+// let count = 0;
+// while (a > 0) {
+//     b = a % 10;
+//     a = Math.floor (a / 10);
+//     count += b;     
+//     console.log(count);
+// }
 
 // if (count == 3) {
 //     console.log("True");
 // } else {
 //     console.log("False");
 // }
+
+

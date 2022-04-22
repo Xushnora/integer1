@@ -120,7 +120,7 @@
 
 // problem 8
 
-// let limit = 25;
+// let limit = 30;
 // let a, b, c = 0;
 // let m = 2;
 // while (c < limit)
@@ -134,6 +134,16 @@
 //             console.log(a + " " + b + " " + c);
 //     }
 //     m++;
+// }
+
+// let n = 30;
+
+// for (let a = 1; a < n; a++) {
+//     for (let b = 1; b < n; a++) {
+//         for (let c = 1; c < n; c++) {
+//             if()
+//         }
+//     }
 // }
 
 
